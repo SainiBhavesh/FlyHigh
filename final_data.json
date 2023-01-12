@@ -1,0 +1,145 @@
+[
+    {
+        "company": "IndiGo",
+        "flightNo": "6E 361",
+        "depTime": "00:45",
+        "source": "Pune",
+        "duration": "01 h 35 m",
+        "type": "Non stop",
+        "arrivalTime": "02:20",
+        "destination": "Bengaluru",
+        "rate": "₹ 2,447"
+    },
+    {
+        "company": "IndiGo",
+        "flightNo": "6E 6564",
+        "depTime": "02:45",
+        "source": "Pune",
+        "duration": "01 h 30 m",
+        "type": "Non stop",
+        "arrivalTime": "04:15",
+        "destination": "Bengaluru",
+        "rate": "₹ 2,447"
+    },
+    {
+        "company": "IndiGo",
+        "flightNo": "6E 6877",
+        "depTime": "04:50",
+        "source": "Pune",
+        "duration": "01 h 30 m",
+        "type": "Non stop",
+        "arrivalTime": "06:20",
+        "destination": "Bengaluru",
+        "rate": "₹ 2,447"
+    },
+    {
+        "company": "Vistara",
+        "flightNo": "UK 554",
+        "depTime": "23:05",
+        "source": "Pune",
+        "duration": "01 h 45 m",
+        "type": "Non stop",
+        "arrivalTime": "00:50+ 1 DAY",
+        "destination": "Bengaluru",
+        "rate": "₹ 2,547"
+    },
+    {
+        "company": "AirAsia",
+        "flightNo": "I5 611",
+        "depTime": "05:35",
+        "source": "Pune",
+        "duration": "01 h 20 m",
+        "type": "Non stop",
+        "arrivalTime": "06:55",
+        "destination": "Bengaluru",
+        "rate": "₹ 2,943"
+    },
+    {
+        "company": "Akasa Air",
+        "flightNo": "QP 1312",
+        "depTime": "07:50",
+        "source": "Pune",
+        "duration": "01 h 40 m",
+        "type": "Non stop",
+        "arrivalTime": "09:30",
+        "destination": "Bengaluru",
+        "rate": "₹ 2,999"
+    },
+    {
+        "company": "Go First",
+        "flightNo": "G8 722",
+        "depTime": "08:40",
+        "source": "Pune",
+        "duration": "01 h 30 m",
+        "type": "Non stop",
+        "arrivalTime": "10:10",
+        "destination": "Bengaluru",
+        "rate": "₹ 3,152"
+    },
+    {
+        "company": "Akasa Air",
+        "flightNo": "QP 1318",
+        "depTime": "23:40",
+        "source": "Pune",
+        "duration": "01 h 30 m",
+        "type": "Non stop",
+        "arrivalTime": "01:10+ 1 DAY",
+        "destination": "Bengaluru",
+        "rate": "₹ 3,937"
+    },
+    {
+        "company": "Vistara",
+        "flightNo": "UK 552",
+        "depTime": "08:35",
+        "source": "Pune",
+        "duration": "01 h 30 m",
+        "type": "Non stop",
+        "arrivalTime": "10:05",
+        "destination": "Bengaluru",
+        "rate": "₹ 4,015"
+    },
+    {
+        "company": "AirAsia",
+        "flightNo": "I5 975",
+        "depTime": "23:10",
+        "source": "Pune",
+        "duration": "01 h 30 m",
+        "type": "Non stop",
+        "arrivalTime": "00:40+ 1 DAY",
+        "destination": "Bengaluru",
+        "rate": "₹ 4,363"
+    },
+    {
+        "company": "IndiGo",
+        "flightNo": "6E 391",
+        "depTime": "07:20",
+        "source": "Pune",
+        "duration": "01 h 40 m",
+        "type": "Non stop",
+        "arrivalTime": "09:00",
+        "destination": "Bengaluru",
+        "rate": "₹ 5,418"
+    },
+    {
+        "company": "Akasa Air",
+        "flightNo": "QP 1365",
+        "depTime": "17:30",
+        "source": "Pune",
+        "duration": "01 h 35 m",
+        "type": "Non stop",
+        "arrivalTime": "19:05",
+        "destination": "Bengaluru",
+        "rate": "₹ 7,500"
+    },
+    {
+        "company": "IndiGo",
+        "flightNo": "6E 672, 6E 256",
+        "depTime": "00:10",
+        "source": "Pune",
+        "duration": "07 h 30 m",
+        "type": "1 stop via Mangalore",
+        "arrivalTime": "07:40",
+        "destination": "Bengaluru",
+        "rate": "₹ 7,907"
+    }
+]
