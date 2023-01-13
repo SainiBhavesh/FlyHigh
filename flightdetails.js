@@ -7,6 +7,6 @@ async function fetchdetails(src,dest){
         return respose.json()
     }
     catch(e){
-        console.log(e
+        console.log(e);
     }
 }
